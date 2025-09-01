@@ -5,7 +5,7 @@ Este projeto foi desenvolvido como parte do curso BFD - SOFTEX, ministrado pelo 
 👩‍🎓 Aluna: Maria Eduarda
 📚 Turma: 05 PE - C1
 
-📝 Descrição
+Sobre o projeto:
 
 A Calculadora Simples é um mini-projeto que funciona diretamente no terminal, implementado em JavaScript com Node.js.
 O foco do projeto é praticar a lógica de programação e os conceitos fundamentais de entrada/saída no terminal.

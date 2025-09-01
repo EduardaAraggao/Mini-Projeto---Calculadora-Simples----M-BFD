@@ -22,21 +22,7 @@ O foco do projeto é praticar a lógica de programação e os conceitos fundamen
 Node.js
 JavaScript
 
-▶️ Como Executar
-
 Clone este repositório:
 git clone <url-do-repositorio>
 
 
-Acesse a pasta do projeto:
-cd Calculadora
-
-Execute o projeto com:
-node conclaveVirtual.js
-
-📖 Aprendizado
-
-Este projeto faz parte do módulo de Node.js e resume práticas importantes:
-Manipulação de entrada e saída no terminal
-Uso de pacotes via npm
-Estruturação de um projeto básico em Node.js

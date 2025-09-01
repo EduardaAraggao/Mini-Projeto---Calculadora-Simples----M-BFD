@@ -17,9 +17,9 @@ O foco do projeto é praticar a lógica de programação e os conceitos fundamen
 ✖️ Multiplicação
 ➗ Divisão
 
-🚀 ferramentas
-Node.js
+🚀 Ferramentas
 
+Node.js
 JavaScript
 
 ▶️ Como Executar
